@@ -9,9 +9,3 @@
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,c,py,gitlab&theme=dark)](https://skillicons.dev)
-
-```html
-<a href="[https://gitlab.info.iut-tlse3.fr/dmm3793a">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
-</a>
-```

@@ -8,4 +8,4 @@
 * [Gestion équipe pétanque](http://www.gestionpetanque.byethost4.com/)
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,c,py,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,c,py,gitlab&theme=dark)](https://skillicons.dev)

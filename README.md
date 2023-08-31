@@ -5,7 +5,6 @@
 
 ## My projects
 * [Gestion saison e-sport](https://gitlab.info.iut-tlse3.fr/dmm3793a/saes3)
-* [Gestion équipe pétanque](http://www.gestionpetanque.byethost4.com/)
 * [API Rest permettant la gestion de publications](https://github.com/MedericDemailly/projetREST)
 
 ## My skills

@@ -5,8 +5,8 @@
 * I am looking for a FullStack developer job
 
 ## My projects
-* [Gestion saison e-sport](https://gitlab.info.iut-tlse3.fr/dmm3793a/saes3)
 * [API Rest permettant la gestion de publications](https://github.com/MedericDemailly/projetREST)
+* [Gestion saison e-sport](https://gitlab.info.iut-tlse3.fr/dmm3793a/saes3)
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,php,c,py,gitlab&theme=dark)](https://skillicons.dev)

@@ -9,4 +9,4 @@
 * [Esports season management](https://gitlab.info.iut-tlse3.fr/dmm3793a/saes3)
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,html,css,java,javascript,py,gitlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,javascript,html,css,java,py,gitlab&theme=dark)](https://skillicons.dev)
